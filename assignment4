@@ -1,0 +1,25 @@
+# playlist=["song A", "song C"]
+# playlist.append("song D")
+
+# playlist.insert(1,"song B")
+
+# playlist.remove("song A")
+# print(playlist)
+
+
+
+
+# sort, sorted
+number=[1050, 2300, 850, 1700]
+number.sort()
+
+number=[1050, 2300, 850, 1700]
+number.sort(reverse=True)
+print(number)
+
+num2=[1050, 2300,850,1700]
+var=sorted(num2, reverse=True)
+print(num2)
+print(var)
+
+       

@@ -1,0 +1,21 @@
+# four pillers of OOP------encapulation, inheritance, polymophism, abstruction
+# define encapulation----putting all the methods in one class, privacy conventions
+# inheritance----methods transfer from parent class to child class
+# parents
+class A:
+    def area():
+        pass
+
+# child
+class B(A):
+    def area():
+        pass
+
+class C(A):
+    def area:
+        pass
+
+# objects
+obj1=A()
+obj2=B()
+        

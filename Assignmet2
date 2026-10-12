@@ -1,0 +1,5 @@
+score = 85
+time_remaning = 10
+has_bonus = false
+can_procees = score > 80 and time remaining > 0 or has_bonus and not score > 90
+print(can_proceed)
